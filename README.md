@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   <a href="https://www.freecodecamp.org/danielmassita" target="_blank"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"></a>
 </div>  
   
- 
+<!-- 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+--> 
 </div>  
