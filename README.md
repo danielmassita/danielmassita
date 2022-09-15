@@ -16,18 +16,11 @@ Here are some ideas to get you started:
 <!-- AQUI PRA BAIXO É CÓDIGO COPIADO! -->
 ##
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/danielmassita">
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=danielmassita&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmassita&langs_count=5&layout=compact&theme=tokyonight"/>
 </div>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
