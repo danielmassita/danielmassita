@@ -16,20 +16,22 @@ Here are some ideas to get you started:
 <!-- AQUI PRA BAIXO É CÓDIGO COPIADO! -->
 ##
 
-<div align="center">
-  <a href="https://github.com/danielmassita">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=danielmassita&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmassita&langs_count=5&layout=compact&theme=tokyonight"/>
-</div>
+
+ <div>
+   <a href="https://github.com/danielmassita">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielmassita&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmassita&layout=compact&langs_count=6&theme=tokyonight"/>
+   
+ </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
-  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="J S" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
+  <img align="center" alt="V S Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
   
 ##
@@ -42,9 +44,8 @@ Here are some ideas to get you started:
   <a href="https://codepen.io/danielmassita/pens/public" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
   <a href="https://www.hackerrank.com/daniel_massita" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
   <a href="https://www.freecodecamp.org/danielmassita" target="_blank"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"></a>
-</div>  
-  
-<!-- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
---> 
+
+
+  ![Snake animation](https://github.com/danielmassita/danielmassita/blob/output/github-contribution-grid-snake.svg)
+
 </div>  
