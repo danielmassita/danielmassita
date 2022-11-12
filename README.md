@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/daniel-massita-tonolli-2402301b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/daniel-massita-tonolli-2402301b/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://discordapp.com/users/danielmassita#5382" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.instagram.com/dmt_ocean_ambassador/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://goo.gl/sG1g8U" target="_blank"><img src="https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white"></a>
