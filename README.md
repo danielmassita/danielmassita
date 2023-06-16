@@ -11,8 +11,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on: Parenting a baby (7 months) + Suiting/Prepping myself up for I.T. jobs...  
-- 🌱 I’m currently learning: C.S. thinking + Front-End Web Dev (HTML, CSS, JS) + Python Basics for Data;
+- 🔭 I’m currently working on: Parenting a baby (15 months) + Suiting/Prepping myself up for I.T. jobs...  
+- 🌱 I’m currently learning: C.S. Thinking + Front-End Web Dev (HTML, CSS, JS) + Python Basics for Data;
 - 👯 I’m looking to collaborate on: Social and Environmental Causes! 
 - 🤔 I’m looking for help with: I need a job! 
 - 💬 Ask me about: Scuba Diving! Ocean Education! Parenting! 
