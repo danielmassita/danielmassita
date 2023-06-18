@@ -47,10 +47,10 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/daniel-massita-tonolli-2402301b/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://discordapp.com/users/danielmassita#5382" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.instagram.com/dmt_ocean_ambassador/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://goo.gl/sG1g8U" target="_blank"><img src="https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white"></a>
-  <a href="https://codepen.io/danielmassita/pens/public" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+  <a href="https://goo.gl/sG1g8U" target="_blank"><img src="https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white"></a> <!-- 
+  <a href="https://codepen.io/danielmassita/pens/public" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>  
   <a href="https://www.hackerrank.com/daniel_massita" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-  <a href="https://www.freecodecamp.org/danielmassita" target="_blank"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"></a>
+  <a href="https://www.freecodecamp.org/danielmassita" target="_blank"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"></a> -->
 
 
   ![Snake animation](https://github.com/danielmassita/danielmassita/blob/output/github-contribution-grid-snake.svg)
