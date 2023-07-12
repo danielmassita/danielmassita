@@ -26,8 +26,10 @@ Here are some ideas to get you started:
 
 
  <div>
-   <a href="https://github.com/danielmassita">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielmassita&show_icons=true&include_all_commits=true&count_private=true"/>
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmassita&show_icons=true&theme=transparent)
+  
+  <a href="https://github.com/danielmassita">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielmassita&show_icons=True&include_all_commits=True&count_private=True"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmassita&layout=compact&langs_count=6&"/>
    
  </div>
